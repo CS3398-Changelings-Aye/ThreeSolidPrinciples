@@ -16,7 +16,7 @@ class Robot implements IWorker
     public void work()
     {
         //.. Work goes here
-        System.out.format("OwO I did it!\n");
+        System.out.format("I did it!\n");
 
     }
     public void eat()
