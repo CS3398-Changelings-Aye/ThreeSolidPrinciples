@@ -2,7 +2,7 @@ package threesolid;
 class Worker implements threesolid.IWorker {
     public void work() {
         // ....working
-        System.out.format("owo ... \n");
+        System.out.format("... \n");
     }
 
     public void eat() {
