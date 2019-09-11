@@ -5,7 +5,9 @@ import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import java.io.*;
 
 //import threesolid.IWorker;
-
+/*
+This is an example of single function principle
+*/
 
 public class ThreeSolidMain
 {
