@@ -9,7 +9,7 @@ package threesolid;
     Principle: The principle used in the class is Open Close Princple.
 */
 
-class SuperWorker implements threesolid.IWorker {
+class SuperWorker implements IWorker {
     public void work() {
         //.... working much more
     }
