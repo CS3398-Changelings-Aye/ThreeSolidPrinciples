@@ -11,7 +11,7 @@ package threesolid;
     reason to change and does not have to be shared with another.
  */
 
-class Worker implements threesolid.IWorker {
+class Worker implements IWorker {
     public void work() {
         // ....working
         System.out.format("... \n");
