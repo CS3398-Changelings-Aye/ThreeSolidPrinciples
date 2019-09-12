@@ -10,12 +10,12 @@ package threesolid;
     make changes in the class that handles that responsibility. 
     */
 class Manager {
-    threesolid.IWorker worker;
+    IWorker worker;
 
     public void Manager() {
 
     }
-    public void setWorker(threesolid.IWorker w) {
+    public void setWorker(IWorker w) {
         worker=w;
     }
 
