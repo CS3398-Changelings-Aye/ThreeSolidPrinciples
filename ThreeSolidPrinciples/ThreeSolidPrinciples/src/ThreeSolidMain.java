@@ -5,8 +5,15 @@ import java.awt.event.*;  // Using AWT event classes and listener interfaces
 import java.io.*;
 
 //import threesolid.IWorker;
+<<<<<<< HEAD
 
 // Comment to make this visible to Git Desktop
+=======
+/*
+This is an example of single function principle
+*/
+
+>>>>>>> 5af38aa5846be4ea405325be2f9e99b4ddba4fc6
 public class ThreeSolidMain
 {
 
@@ -37,18 +44,4 @@ public class ThreeSolidMain
         System.exit(0);
 
     }
-}
-
-// interface segregation principle - good example
-interface IWorker {
-    public void work();
-    public void eat();
-}
-interface IWorkable
-{
-    public void work();
-}
-interface IFeedable
-{
-    public void eat();
 }
