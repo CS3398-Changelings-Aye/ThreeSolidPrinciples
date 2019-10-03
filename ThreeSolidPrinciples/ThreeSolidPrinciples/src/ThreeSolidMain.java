@@ -6,7 +6,7 @@ import java.io.*;
 
 //import threesolid.IWorker;
 
-
+// Comment to make this visible to Git Desktop
 public class ThreeSolidMain
 {
 
